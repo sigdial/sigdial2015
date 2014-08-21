@@ -1,0 +1,34 @@
+sponsors:
+  - name: ETS
+    logo: ets-logo2-menu.png
+    url: http://www.ets.org/
+  - name: Microsoft
+    logo: ms-research-logo-menu.png
+    url: http://research.microsoft.com/
+  - name: Amazon
+    url: http://www.amazon.com/speech
+    logo: amazon-new2-menu.png
+  - name: Yahoo
+    url: http://labs.yahoo.com/
+    logo: yahoo_labs2-menu.png
+  - name: Honda
+    url: http://www.honda-ri.com/
+    logo: hri-logo-new-menu.jpg
+  - name: LDC
+    url: https://www.ldc.upenn.edu/
+    logo: LDClogo-menu.png
+  - name: Mitsubishi
+    url: http://www.merl.com/
+    logo: mitsubishi2-menu.jpg
+  - name: Penn
+    url: http://www.ling.upenn.edu/
+    logo: upenn-final-menu.png
+  - name: AT&T
+    url: http://www.research.att.com/
+    logo: att-logo-menu.png
+  - name: Parlance
+    url: http://www.parlance-project.eu/
+    logo: parlance2-menu.png
+  - name: Sensei
+    url: http://www.sensei-conversation.eu/
+    logo: SENSEI2-menu.jpg

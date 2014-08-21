@@ -1,0 +1,37 @@
+navbar:
+  - title: Main
+    url: /index.html
+  - title: Call for Papers
+    url: /cfp.html
+  - title: Special Sessions
+    url: /sessions.html
+  - title: Important Dates
+    url: /dates.html
+  - title: Keynote Speakers
+    url: /speakers.html
+  - title: Committees
+    url: /people.html
+  - title: Sponsor the Conference
+    url: /sponsor.html
+  - title: Accepted Papers
+    url: /accepted-papers.html
+  - title: Keynote Speakers
+    url: /speakers.html
+  - title: Proceedings
+    url: /proceedings.html
+  - title: Best Paper Awards
+    url: /best-paper-awards.html
+  - title: Instructions for Presenters
+    url: /presentation-instructions.html
+  - title: Registration
+    url: /registration.html
+  - title: Venue
+    url: /venue.html
+  - title: Travel
+    url: /travel.html
+  - title: Schedule
+    url: /schedule.html
+  - title: Contact
+    url: /contact.html
+
+

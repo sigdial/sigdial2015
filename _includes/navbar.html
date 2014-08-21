@@ -1,0 +1,7 @@
+
+{% for entry in site.data.navbar.navbar %}
+  <tr>
+    <td id="menuitem"><a href="{{ entry.url }}">{{ entry.title }}</a></td>
+  </tr>
+{% endfor %}
+
