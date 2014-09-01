@@ -1,5 +1,5 @@
 
-body  {font-family:Arial; }
+body  {font-family:Arial; width: 860px; margin: 0 auto;}
 #menuitem {color: white; background:#888888; text-align:center}
 #menuitem>a {color: white; text-decoration: none}
 p {font-size: 11pt}
