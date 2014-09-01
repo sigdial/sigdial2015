@@ -4,6 +4,8 @@ layout: default
 
 # Important Dates
 
+NB: These are tentative dates
+
 | ------------------------------------------------------------ | --------------- |
 | Special Session Proposal Deadline                            | April, 1st week |
 | Special Session Notification                                 | April, 2nd week |
