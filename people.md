@@ -15,7 +15,7 @@ Masahiro Araki, Kyoto Institute of Technology, Japan
 [Carolyn Penstein-Rose](http://www.cs.cmu.edu/~cprose/), Carnegie Mellon University, USA
 
 ## Mentoring Chair
-TBD
+Svetlana Stoyanchev, AT&T, USA
 
 ## Local Chair
 [Filip Jurcicek](http://ufal.mff.cuni.cz/filip-jurcicek), Charles University, Czech Republic
