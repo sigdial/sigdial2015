@@ -10,7 +10,7 @@ layout: default
 [Gabriel Skantze](http://www.speech.kth.se/~gabriel/), KTH Royal Institute of Technology, Sweden
 
 ## Technical Program Co-Chairs
-Masahiro Araki, Kyoto Institute of Technology, Japan  
+[Masahiro Araki](http://www.ii.is.kit.ac.jp/araki/FSwiki/wiki.cgi?page=English+page), Kyoto Institute of Technology, Japan  
 [Carolyn Penstein-Rose](http://www.cs.cmu.edu/~cprose/), Carnegie Mellon University, USA
 
 ## Local Chair
