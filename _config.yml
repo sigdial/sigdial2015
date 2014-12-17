@@ -1,2 +1,3 @@
 baseurl: "http://sigdial.github.io/sigdial2015"
 markdown: kramdown
+encoding: iso-8859-1

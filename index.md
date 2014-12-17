@@ -17,3 +17,10 @@ of discourse and dialogue. The conference is sponsored by the SIGdial
 organization, which serves as the Special Interest Group in discourse
 and dialogue for both ACL and ISCA.
 
+
+### Co-located events
+
+[YRRSDS 2015](https://sites.google.com/site/yrrsdsmmxv/): Young
+  Researchers' Roundtable on Spoken Dialog Systems, August 31 -
+  September 1, 2015; Prague, Czech Republic
+   
