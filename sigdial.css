@@ -1,9 +1,7 @@
 
-body  {font-family:Arial; width: 860px; margin: 0 auto}
+body  {font-family:Arial; width: 860px; margin: 0 auto; font-size: 11pt}
 #menuitem {color: white; background:#888888; text-align:center}
 #menuitem>a {color: white; text-decoration: none}
-p {font-size: 11pt}
 h1 {font-size: 18pt}
 h2 {font-size: 12pt}
-h3 {font-size: 11pt;  font-style: italic}
-h4 {font-size: 11pt;  font-style: italic; font-weight: bold}
+h3 {font-size: 11pt}
