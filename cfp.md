@@ -2,10 +2,6 @@
 layout: default
 ---
 
----
-layout: default
----
-
 #Preliminary Call for Papers
 
 ##SIGDIAL 2015 CONFERENCE
