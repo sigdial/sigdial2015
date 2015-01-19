@@ -16,16 +16,16 @@ The SIGDIAL venue provides a regular forum for the presentation of cutting edge 
 
 We welcome formal, corpus-based, system-building or analytical work on discourse and dialogue including but not restricted to the following themes and topics:
 
-* Discourse Processing and Dialogue Systems
-* Corpora, Tools and Methodology
-* Pragmatic and/or Semantic Modeling
-* Computational Sociolinguistics
-* Collaborative Process Analysis
-* Dimensions of Interaction
-* Open Domain Dialogue
-* Style, Voice and Personality in Spoken Dialogue and Written Text
-* Applications of Dialogue and Discourse Processing Technology
-* Novel Methods for Generation Within Dialogue
+    * Discourse Processing and Dialogue Systems
+    * Corpora, Tools and Methodology
+    * Pragmatic and/or Semantic Modeling
+    * Computational Sociolinguistics
+    * Collaborative Process Analysis
+    * Dimensions of Interaction
+    * Open Domain Dialogue
+    * Style, Voice and Personality in Spoken Dialogue and Written Text
+    * Applications of Dialogue and Discourse Processing Technology
+    * Novel Methods for Generation Within Dialogue
 
 As with previous SIGDIAL meetings, we will be accepting proposals for special sessions, which will undergo regular SIGDIAL review process.
 
