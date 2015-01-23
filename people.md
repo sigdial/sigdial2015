@@ -17,7 +17,7 @@ layout: default
 [Filip Jurcicek](http://ufal.mff.cuni.cz/filip-jurcicek), Charles University, Czech Republic
 
 ## Mentoring Chair
-[Svetlana Stoyanchev](http://www.cs.columbia.edu/~sstoyanchev), Interactions Corporation
+[Svetlana Stoyanchev](http://www.cs.columbia.edu/~sstoyanchev), Interactions Corporation, USA
 
 ## Sponsorships Chair
 [Kristy Boyer](http://people.engr.ncsu.edu/keboyer), North Carolina State University, USA
