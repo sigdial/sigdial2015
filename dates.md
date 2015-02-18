@@ -12,5 +12,5 @@ NB: These are tentative dates
 | Long, Short and Demonstration Paper Submission Deadline      | Thursday, 30 April 2015 (23:59, GMT-11)      |
 | Long, Short and Demonstration Paper Notification             | Friday, 12 June 2015  |
 | Final Paper Submission Deadline (mentored papers only)       | Monday, 13 July 2015  |
-| Final Paper Submission Deadline (all other types )           | Monday, 13 July 2015  |
+| Final Paper Submission Deadline (all other types )           | Monday, 20 July 2015  |
 | Conference                                                   | Wednesday, 2 September 2015 (morning) to Friday, 4 September 2015 (midday)  |
