@@ -7,7 +7,7 @@ layout: default
 NB: These are tentative dates
 
 | ------------------------------------------------------------ | --------------- |
-| Special Session Proposal Deadline                            | ~~Sunday, 15 March 2015~~ <span style="color:red">(Closed)</span> |
+| Special Session Proposal Deadline                            | <Strike>Sunday, 15 March 2015</Strike> <span style="color:red">(Closed)</span> |
 | Special Session Notification                                 | Monday, 30 March 2015 |
 | Long, Short and Demonstration Paper Submission Deadline      | Thursday, 7 May 2015 (23:59, GMT-11)      |
 | Long, Short and Demonstration Paper Notification             | Friday, 19 June 2015  |
