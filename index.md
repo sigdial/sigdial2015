@@ -5,7 +5,7 @@ layout: default
 # Welcome to SIGDIAL 2015!
 
 **The 16th Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL
-2015) will held on September 2-4 in Prague, Czech Republic. **
+2015) will held on September 2-4 in Prague, Czech Republic.**
 
 The SIGDIAL venue provides a regular forum for the presentation of
 cutting edge research in discourse and dialogue to both academic and
