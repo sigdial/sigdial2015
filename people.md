@@ -39,9 +39,9 @@ Timo Baumann, Universitat Hamburg, Germany
 Frederic Bechet, Aix Marseille Universite - LIF/CNRS, France  
 Steve Beet, Aculab plc, United Kingdom  
 Jose Miguel Benedi, Universitat Politecnica de Valencia, Spain  
-Nicole Beringer, ,   
+Nicole Beringer   
 Nate Blaylock, Nuance Communications, Canada  
-Dan Bohus, ,   
+Dan Bohus   
 Johan Boye, KTH, Sweden  
 Kristy Boyer, North Carolina State University, United States  
 Christophe Cerisara, CNRS, France  
@@ -66,7 +66,7 @@ Claire Gardent, CNRS/LORIA, Nancy, France
 Kallirroi Georgila, University of Southern California Institute for Creative Technologies, United States  
 Agustin Gravano, Universidad de Buenos Aires, Argentina  
 Nancy Green, University of North Carolina Greensboro, United States  
-Curry Guinn, ,   
+Curry Guinn   
 Dilek Hakkani-Tur, Microsoft Research, United States  
 Mark Hasegawa-Johnson, University of Illinois, United States  
 Helen Hastie, Heriot-Watt University,   
@@ -110,7 +110,7 @@ Gabriel Skantze, KTH Speech Music and Hearing, Sweden
 Manfred Stede, University of Potsdam, Germany  
 Georg Stemmer, Intel Corp., Germany  
 Matthew Stone, Rutgers University, United States  
-Svetlana Stoyanchev, ,   
+Svetlana Stoyanchev   
 Kristina Striegnitz, Union College,   
 Marc Swerts, Tilburg University, Netherlands  
 Antonio Teixeira, University of Aveiro, Portugal  
