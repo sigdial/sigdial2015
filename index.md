@@ -17,6 +17,10 @@ and dialogue for both ACL and ISCA.
 
 SIGDIAL 2015 is an [ISCA](http://www.isca-speech.org/) supported event.
 
+* Recent Updates (9th Apr)
+	* Special Sessions
+	* Keynote speakers
+	* Committees (Program Committee list)
 
 ### Co-located events
 

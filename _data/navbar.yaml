@@ -15,8 +15,6 @@ navbar:
     url: sponsor.html
   - title: Accepted Papers
     url: accepted-papers.html
-  - title: Keynote Speakers
-    url: speakers.html
   - title: Proceedings
     url: proceedings.html
   - title: Best Paper Awards
