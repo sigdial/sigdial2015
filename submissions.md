@@ -19,7 +19,7 @@ Papers that have been or will be submitted to other meetings or publications mus
 
 Authors are encouraged to submit additional supportive material such as video clips or sound clips and examples of available resources for review purposes.
 
-Submission is electronic using paper submission software at [subission site](https://www.softconf.com/e/sigdial2015/).
+Submission is electronic using paper submission software at [submission site](https://www.softconf.com/e/sigdial2015/).
 
 ##FORMAT
 
