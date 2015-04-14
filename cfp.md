@@ -27,8 +27,6 @@ We welcome formal, corpus-based, system-building or analytical work on discourse
 * Applications of Dialogue and Discourse Processing Technology
 * Novel Methods for Generation Within Dialogue
 
-**As with previous SIGDIAL meetings, we will be accepting proposals for special sessions, which will undergo regular SIGDIAL review process.**
-
 ##MENTORING SERVICE
 
 For several years, the SIGDIAL conference has offered a mentoring service. Submissions with innovative core ideas that may need language (English) or organizational assistance will be flagged for "mentoring" and conditionally accepted with recommendation to revise with a mentor. An experienced mentor who has previously published in the SIGDIAL venue will then help the authors of these flagged papers prepare their submissions for publication. Any questions about the mentoring service can be addressed to the mentoring chair Svetlana Stoyanchev at mentoring[at]sigdial.org.

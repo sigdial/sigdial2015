@@ -28,4 +28,4 @@ All long, short, and demonstration submissions should follow the two-column ACL
 Word style files tailored for the ACL 2015 conference. Submissions must conform
 to the official [ACL 2015 style guidelines](http://acl2015.org/call_for_papers.html), and they must be electronic in PDF.
 
-As in most previous years, submissions will not be anonymous. Papers may include authors' names and affiliations, and self-references are allowed.
+**As in most previous years, submissions will not be anonymous. Papers may include authors' names and affiliations, and self-references are allowed.**
