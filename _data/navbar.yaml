@@ -3,6 +3,10 @@ navbar:
     url: index.html
   - title: Call for Papers
     url: cfp.html
+  - title: Paper format
+    url: http://acl2015.org/call_for_papers.html 
+  - title: Submission site
+    url: https://www.softconf.com/e/sigdial2015/ 
   - title: Special Sessions
     url: sessions.html
   - title: Important Dates
