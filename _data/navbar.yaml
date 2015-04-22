@@ -25,10 +25,8 @@ navbar:
     url: presentation-instructions.html
   - title: Registration
     url: registration.html
-  - title: Venue
-    url: venue.html
-  - title: Travel
-    url: travel.html
+  - title: Venue and Travel
+    url: https://ufal.mff.cuni.cz/events/sigdial-2015
   - title: Schedule
     url: schedule.html
   - title: Contact
