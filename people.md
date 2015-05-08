@@ -106,6 +106,7 @@ Antoine Raux, Lenovo Labs, United States
 Norbert Reithinger, DFKI GmbH, Germany  
 Alexander Rudnicky, Carnegie Mellon University, United States  
 David Schlangen, Bielefeld University, Germany  
+Gabriel Skantze, KTH Speech Music and Hearing, Sweden  
 Manfred Stede, University of Potsdam, Germany  
 Georg Stemmer, Intel Corp., Germany  
 Matthew Stone, Rutgers University, United States  
