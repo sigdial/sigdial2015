@@ -17,9 +17,10 @@ and dialogue for both ACL and ISCA.
 
 SIGDIAL 2015 is an [ISCA](http://www.isca-speech.org/) supported event.
 
-* Recent Updates (7th May)
-	* Paper submission is closed
-	* Venue and Travel
+### Recent Updates (7th May)
+
+ * Paper submission is closed
+ * Venue and Travel
 
 ### Co-located events
 
@@ -31,3 +32,4 @@ September 6-10 in Dresden, Germany, immediately after SIGDIAL.
   Researchers' Roundtable on Spoken Dialog Systems, August 31 -
   September 1, 2015; Prague, Czech Republic
    
+*Important note for non-EU citizens*:  All citizens of countries outside the Schengen area must have a passport valid for at least 3 months after departure date in order to travel into an EU country.
