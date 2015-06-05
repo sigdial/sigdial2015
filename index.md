@@ -32,4 +32,6 @@ September 6-10 in Dresden, Germany, immediately after SIGDIAL.
   Researchers' Roundtable on Spoken Dialog Systems, August 31 -
   September 1, 2015; Prague, Czech Republic
    
-*Important note for non-EU citizens*:  All citizens of countries outside the Schengen area must have a passport valid for at least 3 months after departure date in order to travel into an EU country.
+### Important note for non-EU citizens
+
+All citizens of countries outside the Schengen area must have a passport valid for at least 3 months after departure date in order to travel into an EU country.
