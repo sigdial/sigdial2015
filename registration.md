@@ -12,10 +12,10 @@ Please note that attending only SigDial and not Interspeech leads to credit card
 
 ## Registration fees 
 
-|---------|-------------------------|-------|
-| &nbsp;  | Early (before July 21)  | Late  |
-| Regular | € 190                   | € 235 |
-| Student | € 130                   | € 155 |
+|----------|-------------------------|-------|
+| Category | Early (before July 21)  | Late  |
+| Regular  | € 190                   | € 235 |
+| Student  | € 130                   | € 155 |
 
 ## Cancellation
 
