@@ -11,9 +11,9 @@ layout: default
 
 <p><font face="Arial">
 
-<table>
+<table border="0">
 <tr>
-<td>ÅgSo, which one is it?Åh The effect of alternative incremental architectures in a high-performance game-playing agent</td>
+<td>"So, which one is it?" The effect of alternative incremental architectures in a high-performance game-playing agent</td>
 </tr>
 <tr>
 <td><em>Maike Paetzel, Ramesh Manuvinakurike and David DeVault</em></td>
