@@ -15,6 +15,16 @@ table.menu  td {
     border: 2px solid white;
 	padding: 8px
 }
+
+table.papers {
+	border: none;
+	font-size: 90%;
+}
+
+table.papers tr,td {
+	border: none;
+}
+
 td {
 	padding:5px;
 }

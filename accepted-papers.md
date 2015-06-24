@@ -4,14 +4,13 @@ layout: default
 
 ##Accepted Papers
 
-<body>
 <div id="wrapper">
 <div id="body">
 <div id="main">
 
 <p><font face="Arial">
 
-<table border="0">
+<table class="papers">
 <tr>
 <td>"So, which one is it?" The effect of alternative incremental architectures in a high-performance game-playing agent</td>
 </tr>
@@ -552,4 +551,3 @@ layout: default
 </div>
 </div>
 </div>
-</body>
