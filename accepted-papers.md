@@ -4,7 +4,6 @@ layout: default
 
 ##Accepted Papers
 
-<body>
 <div id="wrapper">
 <div id="body">
 <div id="main">
@@ -552,4 +551,3 @@ layout: default
 </div>
 </div>
 </div>
-</body>
