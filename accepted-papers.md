@@ -282,7 +282,7 @@ layout: default
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>I CouldnÅft Agree More: The Role of Conversational Structure in Agreement and Disagreement Detection in Online Discussions</td>
+<td>I Couldn't Agree More: The Role of Conversational Structure in Agreement and Disagreement Detection in Online Discussions</td>
 </tr>
 <tr>
 <td><em>Sara Rosenthal and Kathy McKeown</em></td>
