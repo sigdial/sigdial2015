@@ -177,7 +177,7 @@ layout: default2
 <td>Dialogue Management based on Multi-domain Corpus</td>
 </tr>
 <tr>
-<td><em>wendong ge and Bo Xu</em></td>
+<td><em>Wendong Ge and Bo Xu</em></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -195,7 +195,7 @@ layout: default2
 <td>Entrainment in Slovak, Spanish, English and Chinese: A cross-linguistic comparison</td>
 </tr>
 <tr>
-<td><em>Rivka Levitan, ?tefan Be?u?, Agustin Gravano and Julia Hirschberg</em></td>
+<td><em>Rivka Levitan, Stefan Benus, Agustin Gravano and Julia Hirschberg</em></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -339,7 +339,7 @@ layout: default2
 <td>Metaphor Detection in Discourse</td>
 </tr>
 <tr>
-<td><em>Seungwhan Moon, Yohan Jo and Carolyn Rose</em></td>
+<td><em>Hyeju Jang, Seungwhan Moon, Yohan Jo and Carolyn Rose</em></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
