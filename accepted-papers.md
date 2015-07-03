@@ -546,7 +546,7 @@ layout: default2
 
 
 <br><br><br>
-<font face="Arial">Last update:</font> June 24, 2015 - <a href="credits.htm">Credits</a>
+<font face="Arial">Last update:</font> June 24, 2015
 
 </div>
 </div>

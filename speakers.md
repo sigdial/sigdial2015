@@ -24,11 +24,13 @@ Frank Fischer holds master's and doctoral degrees in Psychology. He was an assis
 * Mu, J., Stegmann, K., Mayfield, E., Rose, C. & Fischer, F. (2012). The ACODEA framework: Developing segmentation and classification schemes for fully automatic analysis of online discussions. International Journal of Computer-Supported Collaborative Learning, 7(2), 285-305.
 * Wecker, C., & Fischer, F. (2014). Where is the evidence? A meta-analysis on the role of argumentation for the acquisition of domain-specific knowledge in computer-supported collaborative learning. Computers & Education, 75, 218-228.
 
+<br/><br/><br/>
+
 ##Dilek Hakkani-Tur (Microsoft Research, USA)  
 
 ###Graph-based Approaches for Spoken Language Understanding
 
-####Abstract:
+####Abstract
 
 Following an upsurge in mobile device usage and improvements in speech
 recognition performance, multiple virtual personal assistant systems have
@@ -49,7 +51,7 @@ understanding in conversational systems, while at the same time
 investigating what is still lacking for natural human-machine interactions
 and related challenges.
 
-####Bio:
+####Bio
 
 Dilek Hakkani-Tur is a principal researcher at Microsoft Research. Prior to
 joining Microsoft, she was a senior researcher at the International
@@ -70,3 +72,6 @@ and Language Technical Committee (2009-2014), an area editor for speech and
 language processing for Elsevier's Digital Signal Processing Journal and
 IEEE Signal Processing Letters (2011-2013). She is a Fellow of the IEEE and
 ISCA.
+
+<br/><br/><br/>
+<font face="Arial">Last update:</font> July 4, 2015
