@@ -6,7 +6,7 @@ layout: default
 
 ##Frank Fischer (University of Munich, Germany)  
 
-![Frank Fischer](Fischer.jpeg) 
+![Frank Fischer](Fischer.jpg) 
 
 ###The Interplay of Discussion, Cognition and Instruction in Computer-Supported Collaborative Learning Environments
 
@@ -27,6 +27,8 @@ Frank Fischer holds master's and doctoral degrees in Psychology. He was an assis
 <br/><br/><br/>
 
 ##Dilek Hakkani-Tur (Microsoft Research, USA)  
+
+![Dilek Hakkani-Tur](Dilek.jpg) 
 
 ###Graph-based Approaches for Spoken Language Understanding
 
