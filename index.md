@@ -19,8 +19,8 @@ SIGDIAL 2015 is an [ISCA](http://www.isca-speech.org/) supported event.
 
 ### Recent Updates (11th July)
 
- * [Tentative Program](http://sigdial.github.io/sigdial2015/schedule.html)
- * [Keynote Speakers](http://sigdial.github.io/sigdial2015/speakers.html)
+ * [Tentative Program](http://www.sigdial.org/workshops/conference16/schedule.html)
+ * [Keynote Speakers](http://www.sigdial.org/workshops/conference16/speakers.html)
 
 ### Co-located events
 
