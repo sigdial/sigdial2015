@@ -10,12 +10,26 @@ You register for SigDial through the Interspeech registration website, which mea
 
 Please note that attending only SigDial and not Interspeech leads to credit card as the only acceptable payment method.
 
+
 ## Registration fees 
 
 |----------|-------------------------|-------|
-| Category | Early (before July 21)  | Late  |
-| Regular  | € 190                   | € 235 |
-| Student  | € 130                   | € 155 |
+| Category | Early (up to July 20)  | Late (up to September 2) |
+| Regular  | EUR 190                   | EUR 235 |
+| Student  | EUR 130                   | EUR 155 |
+
+After September 2, you can register on-site. Note that this incurs a
+registration fee in Czech Crowns (CZK) instead of Euro (EUR). See the
+[local information page](https://ufal.mff.cuni.cz/events/sigdial-2015)
+for details.
+
+
+## Troubleshooting 
+
+If you run into any problems regarding your registration, please
+contact the conference secretariat directly at
+kongresse[at]tubs.de, as the SIGdial organizers themselves do not have
+access to the registration system.
 
 ## Cancellation
 
