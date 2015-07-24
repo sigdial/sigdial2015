@@ -14,11 +14,12 @@ Please note that attending only SigDial and not Interspeech leads to credit card
 ## Registration fees 
 
 |----------|-------------------------|-------|
-| Category | Early (up to July 20)  | Late (up to September 2) |
+| Category | Early (up to July 20)  | Late (up to August 30) |
 | Regular  | EUR 190                   | EUR 235 |
 | Student  | EUR 130                   | EUR 155 |
 
-After September 2, you can register on-site. Note that this incurs a
+The last day on which you can register online is August 30.
+After this, you can register on-site. Note that this incurs a
 registration fee in Czech Crowns (CZK) instead of Euro (EUR). See the
 [local information page](https://ufal.mff.cuni.cz/events/sigdial-2015)
 for details.
