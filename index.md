@@ -17,10 +17,10 @@ and dialogue for both ACL and ISCA.
 
 SIGDIAL 2015 is an [ISCA](http://www.isca-speech.org/) supported event.
 
-### Recent Updates (11th July)
+### Recent Updates (29th July)
 
- * [Tentative Program](http://www.sigdial.org/workshops/conference16/schedule.html)
- * [Keynote Speakers](http://www.sigdial.org/workshops/conference16/speakers.html)
+ * [Conference Program](http://www.sigdial.org/workshops/conference16/schedule.html)
+ * [Special Session](http://www.sigdial.org/workshops/conference16/sessions.html)
 
 ### Co-located events
 

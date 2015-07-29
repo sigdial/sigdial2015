@@ -132,7 +132,7 @@ layout: default2
 <td>Comment-to-Article Linking</td>
 </tr>
 <tr>
-<td><em>Ahmet Aker, Emina Kurtic, Mark Hepple and Rob Gaizauskas</em></td>
+<td><em>Ahmet Aker, Emina Kurtic, Mark Hepple, Rob Gaizauskas and Giuseppe Di Fabbrizio </em></td>
 </tr>
 <tr>
 <td>&nbsp;</td>

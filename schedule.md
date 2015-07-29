@@ -146,9 +146,6 @@ Which Synthetic Voice Should I Choose for an Evocative Task?<br/>
 Dialog Act Annotation for Twitter Conversations<br/>
 <em>  Elina Zarisheva and Tatjana Scheffler</em>
 
-Data-driven Turn-taking Models for Collaborative Multi-Party Human-Robot Interaction<br/>
-<em>  Martin Johansson and Gabriel Skantze</em>
-
 Towards Improving Dialogue Topic Tracking Performances with Wikification of Concept Mentions<br/>
 <em>  Seokhwan Kim, Rafael E. Banchs and Haizhou Li</em>
 
@@ -182,6 +179,8 @@ Modelling situated human-robot interaction using IrisTK<br/>
 
 -----------------------  Group 2  (4th Sep.) -----------------------
 
+Data-driven Turn-taking Models for Collaborative Multi-Party Human-Robot Interaction<br/>
+<em>  Martin Johansson and Gabriel Skantze</em>
 
 Optimising Turn-Taking Strategies With Reinforcement Learning<br/>
 <em>  Hatim KHOUZAIMI, Romain Laroche and Fabrice Lefevre</em>
@@ -205,7 +204,7 @@ Quality-adaptive Spoken Dialogue And Implications On Reward Modelling<br/>
 <em>  Stefan Ultes, Matthias Kraus, Alexander Schmitt and Wolfgang Minker</em>
 
 Metaphor Detection in Discourse<br/>
-<em>  Seungwhan Moon, Yohan Jo and Carolyn Rose</em>
+<em>  Hyeju Jang, Seungwhan Moon, Yohan Jo and Carolyn Rose</em>
 
 User Adaptive Restoration for Incorrectly-Segmented Utterances in Spoken Dialogue Systems<br/>
 <em>  Kazunori Komatani, Naoki Hotta, Satoshi Sato and Mikio Nakano</em>
@@ -223,7 +222,7 @@ Reward Shaping with Recurrent Neural Networks for Speeding up On-Line Policy Lea
 <em>  Pei-Hao Su, David Vandyke, Milica Gasic, Nikola Mrksic, Tsung-Hsien Wen and Steve Young</em>
 
 Effects of a Game on User Engagement of a Spoken Dialogue System<br/>
-<em>  Hayato Kobayashi, Manabu Sassano and Kaori Tanio</em>
+<em>  Hayato Kobayashi, Kaori Tanio and Manabu Sassano</em>
 
 Evaluation of Crowdsourced User Input Data for Spoken Dialog Systems<br/>
 <em>  Maria Schmidt, Markus Muller, Martin Wagner, Sebastian Stuker, Alex Waibel, Hansjorg Hofmann and Steffen Werner</em>
