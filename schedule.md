@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# SIGDIAL 2015: Tentative Program
+# SIGDIAL 2015: Conference Program
 
 ## Wednesday 2nd September
 
@@ -241,4 +241,4 @@ The Cohort and Speechify Libraries for Rapid Construction of Speech Enabled Appl
 
 
 <br/><br/><br/>
-<font face="Arial">Last update:</font> 11 July, 2015
+<font face="Arial">Last update:</font> 29 July, 2015
