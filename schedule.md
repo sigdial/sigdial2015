@@ -10,8 +10,8 @@ layout: default
 
 ####09:10	Keynote I
 
-The Interplay of Discussion, Cognition and Instruction <br>
-in Computer-Supported Collaborative Learning Environments
+The Interplay of Discussion, Cognition and Instruction
+in Computer-Supported Collaborative Learning Environments <br/>
 <em>Frank Fischer (University of Munich, Germany)</em>
 
 #####10:10	Break
@@ -120,8 +120,8 @@ Generating Sentence Planning Variations for Story Telling<br/>
 
 ####09:05	Keynote II
 
-    Graph-based Approaches for Spoken Language Understanding<br/>
-  <em>Dilek Hakkani-Tur (Microsoft Research, USA)</em>
+Graph-based Approaches for Spoken Language Understanding<br/>
+<em>Dilek Hakkani-Tur (Microsoft Research, USA)</em>
 
 #####10:05	Break
 
