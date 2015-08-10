@@ -4,15 +4,15 @@ layout: default
 
 # SIGDIAL 2015: Conference Program
 
-## Wednesday 2nd September
+## Wednesday, September 2, 2015
 
 #####09:00	Welcome and conference overview
 
 ####09:10	Keynote I
 
-<em>Frank Fischer (University of Munich, Germany)</em><br>
-The Interplay of Discussion, Cognition and Instruction 
+The Interplay of Discussion, Cognition and Instruction <br>
 in Computer-Supported Collaborative Learning Environments
+<em>Frank Fischer (University of Munich, Germany)</em>
 
 #####10:10	Break
 
@@ -41,85 +41,6 @@ An Incremental Turn-Taking Model with Active System Barge-in for Spoken Dialog S
 ####13:50	Poster madness
 
 ####14:10	Poster session (with coffee)
-
-  Group 1
-
-####16:30   Oral Session 3: Perspective and Point of View
-
-I Couldn't Agree More: The Role of Conversational Structure in Agreement
-and Disagreement Detection in Online Discussions<br/>
-<em>Sara Rosenthal and Kathy McKeown</em>
-
-Memory-Based Acquisition of Argument Structures and its Application to Implicit Role Detection<br/>
-<em>Christian Chiarcos and Niko Schen</em>
-
-Generating Sentence Planning Variations for Story Telling<br/>
-<em>Stephanie Lukin and Marilyn Walker</em>
-
-#####17:45	Informal announcements
-
-####19:00	Banquet
-
-## Thursday 3rd September
-
-#####09:00	Day overview and informational announcements
-
-####09:05	Keynote II
-
-  <em>Dilek Hakkani-Tur (Microsoft Research, USA)</em><br>
-    Graph-based Approaches for Spoken Language Understanding
-
-#####10:05	Break
-
-####10:30	Oral Session 4: New directions
-
-Evaluating Spoken Dialogue Processing for Time-Offset Interaction<br/>
-<em>David Traum, Kallirroi Georgila, Ron Artstein and Anton Leuski</em>
-
-THE REAL CHALLENGE 2014: PROGRESS AND PROSPECTS<br/>
-<em>  Maxine Eskenazi, Alan W Black, Sungjin Lee and David Traum</em>
-
-A Multi-Document Summarization Approach to Argument Mining<br/>
-<em>  Reid Swanson, Brian Ecker and Marilyn Walker</em>
-
-####11:45	Lunch, business meeting, and sponsor talks
-
-####13:30	Special session (MultiLing 2015) and Open Space
-
-####17:30	Open Space closing session
-
-#####17:45	Informal announcements
-
-## Friday 4th September
-
-#####09:00	Day overview and informational announcements
-
-####09:05	Oral Session 5: Neural Network for dialogue processing
-
-Stochastic Language Generation in Dialogue using Recurrent Neural
-Networks with Convolutional Sentence Reranking<br/>
-<em>    Tsung-Hsien Wen, Milica Gasic, Dongho Kim, Nikola Mrksic, Pei-Hao Su,
-David Vandyke and Steve Young</em>
-
-The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured
-Multi-Turn Dialogue Systems<br/>
-<em>    Ryan Lowe, Nissan Pow, Iulian Serban and Joelle Pineau</em>
-
-Recurrent Polynomial Network for Dialogue State Tracking with Mismatched
-Semantic Parsers<br/>
- <em>   Qizhe Xie, Kai Sun, Su Zhu, Lu Chen and Kai Yu</em>
-
-####10:20	Poster madness
-
-####10:40	Poster session (with coffee)
-
-Group 2
-
-####12:40	Best paper award ceremony and closing
-
-#####13:00	End of conference
-
------------------------  Group 1 (2nd Sep.) -----------------------
 
 Exploring the Effects of Redundancy within a Tutorial Dialogue System: Restating Students' Responses
 <em>  Pamela Jordan, Patricia Albacete and Sandra Katz</em>
@@ -153,16 +74,16 @@ Exploiting knowledge base to generate responses for natural language dialog list
 <em>  Sangdo Han, Jeesoo Bang, Seonghan Ryu and Gary Geunbae Lee</em>
 
 Automated Speech Recognition Technology for Dialogue Interaction with Non-Native Interlocutors<br/>
-<em>  Alexei V. Ivanov, David Suendermann-Oeft, Vikram Ramanarayanan, Melissa Lopez, Keelan Evanini and Jidong Tao</em>
+<em>  Alexei V. Ivanov, Vikram Ramanarayanan, David Suendermann-Oeft, Melissa Lopez, Keelan Evanini and Jidong Tao</em>
 
 Conversational Knowledge Teaching Agent that uses a Knowledge Base<br/>
-<em>  Kyusong Lee and Gary Geunbae Lee</em>
+<em>  Kyusong Lee, Paul Hongsuck Seo, Junhwi Choi, Sangjun Koo and Gary Geunbae Lee</em>
 
 Information Theoretical and Statistical Features for Intrinsic Plagiarism Detection<br/>
 <em>  Rashedur Rahman</em>
 
 A SIP of CoFee : A Sample of Interesting Productions of Conversational Feedback<br/>
-<em>  Laurent Prevot and Jan Gorisch</em>
+<em>  Laurent Prevot, Jan Gorisch, Roxane Bertrand, Emilien Gorene and Brigitte Bigi</em>
 
 Reinforcement Learning of Multi-Issue Negotiation Dialogue Policies<br/>
 <em>  Alexandros Papangelis and Kallirroi Georgila</em>
@@ -177,15 +98,103 @@ Modelling situated human-robot interaction using IrisTK<br/>
 <em>  Gabriel Skantze and Martin Johansson</em>
 
 
------------------------  Group 2  (4th Sep.) -----------------------
+####16:30   Oral Session 3: Perspective and Point of View
 
-Data-driven Turn-taking Models for Collaborative Multi-Party Human-Robot Interaction<br/>
+I Couldn't Agree More: The Role of Conversational Structure in Agreement
+and Disagreement Detection in Online Discussions<br/>
+<em>Sara Rosenthal and Kathy McKeown</em>
+
+Memory-Based Acquisition of Argument Structures and its Application to Implicit Role Detection<br/>
+<em>Christian Chiarcos and Niko Schen</em>
+
+Generating Sentence Planning Variations for Story Telling<br/>
+<em>Stephanie Lukin, Lena Reed and Marilyn Walker</em>
+
+#####17:45	Informal announcements
+
+####19:00	Banquet
+
+## Thursday, September 3, 2015
+
+#####09:00	Day overview and informational announcements
+
+####09:05	Keynote II
+
+    Graph-based Approaches for Spoken Language Understanding<br/>
+  <em>Dilek Hakkani-Tur (Microsoft Research, USA)</em>
+
+#####10:05	Break
+
+####10:30	Oral Session 4: New directions
+
+Evaluating Spoken Dialogue Processing for Time-Offset Interaction<br/>
+<em>David Traum, Kallirroi Georgila, Ron Artstein and Anton Leuski</em>
+
+THE REAL CHALLENGE 2014: PROGRESS AND PROSPECTS<br/>
+<em>  Maxine Eskenazi, Alan W Black, Sungjin Lee and David Traum</em>
+
+Argument Mining: Extracting Arguments from Online Dialogue<br/>
+<em>  Reid Swanson, Brian Ecker and Marilyn Walker</em>
+
+####11:45	Lunch, business meeting, and sponsor talks
+
+####13:30	Special session (MultiLing 2015) and Open Space
+
+Multilingual Summarization with Polytope Model<br/>
+<em>Natalia Vanetik and Marina Litvak</em>
+		
+Call Centre Conversation Summarization: A Pilot Task at Multiling 2015<br/>
+<em>Benoit Favre, Evgeny Stepanov, Jeremy Trione, Frederic Bechet and Giuseppe Riccardi</em>
+		
+AllSummarizer system at MultiLing 2015: Multilingual single and multi-document summarization<br/>
+<em>Abdelkrime Aries, Djamel Eddine Zegour and Khaled Walid Hidouci</em>
+	
+Comment-to-Article Linking in the Online News Domain<br/>
+<em>Ahmet Aker, Emina Kurtic, Mark Hepple, Rob Gaizauskas and Giuseppe Di Fabbrizio</em>
+
+The University of Alicante at MultiLing 2015: approach, results and further insights<br/>
+<em>Marta Vicente, Oscar Alcon and Elena Lloret</em>
+
+ExB Text Summarizer<br/>
+<em>Stefan Thomas, Christian Beutenmuller, Xose de la Puente, Robert Remus and Stefan Bordag</em>
+
+MultiLing 2015: Multilingual Summarization of Single and Multi-Documents, On-line Fora, and Call-center Conversations<br/>
+<em>George Giannakopoulos, Jeff Kubina, John Conroy, Josef Steinberger, Benoit Favre, Mijail Kabadjov, Udo Kruschwitz and Massimo Poesio</em>
+
+####17:30	Open Space closing session
+
+#####17:45	Informal announcements
+
+## Friday, September 4, 2015
+
+#####09:00	Day overview and informational announcements
+
+####09:05	Oral Session 5: Neural Network for dialogue processing
+
+Stochastic Language Generation in Dialogue using Recurrent Neural
+Networks with Convolutional Sentence Reranking<br/>
+<em>    Tsung-Hsien Wen, Milica Gasic, Dongho Kim, Nikola Mrksic, Pei-Hao Su,
+David Vandyke and Steve Young</em>
+
+The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured
+Multi-Turn Dialogue Systems<br/>
+<em>    Ryan Lowe, Nissan Pow, Iulian Serban and Joelle Pineau</em>
+
+Recurrent Polynomial Network for Dialogue State Tracking with Mismatched
+Semantic Parsers<br/>
+ <em>   Qizhe Xie, Kai Sun, Su Zhu, Lu Chen and Kai Yu</em>
+
+####10:20	Poster madness
+
+####10:40	Poster session (with coffee)
+
+Opportunities and Obligations to Take Turns in Collaborative Multi-Party Human-Robot Interaction<br/>
 <em>  Martin Johansson and Gabriel Skantze</em>
 
 Optimising Turn-Taking Strategies With Reinforcement Learning<br/>
 <em>  Hatim KHOUZAIMI, Romain Laroche and Fabrice Lefevre</em>
 
-Entrainment in Slovak, Spanish, English and Chinese: A cross-linguistic comparison<br/>
+Acoustic-prosodic entrainment in Slovak, Spanish, English and Chinese: A cross-linguistic comparison <br/>
 <em>  Rivka Levitan, Stefan Benus, Agustin Gravano and Julia Hirschberg</em>
 
 A statistical approach for Non-Sentential Utterance Resolution for Interactive QA System<br/>
@@ -230,7 +239,7 @@ Evaluation of Crowdsourced User Input Data for Spoken Dialog Systems<br/>
 A distributed cloud-based dialog system for conversational application development<br/>
 <em>  Vikram Ramanarayanan, David Suendermann-Oeft, Alexei V. Ivanov and Keelan Evanini</em>
 
-A TV Discovery Dialog System using recommendations<br/>
+A TV Program Discovery Dialog System Using Recommendations <br/>
 <em>  Deepak Ramachandran, Mark Fanty, Ronald Provine, Peter Yeh, William Jarrold, Adwait Ratnaparkhi and Benjamin Douglas</em>
 
 Description of the PatientGenesys Dialogue System<br/>
@@ -240,5 +249,9 @@ The Cohort and Speechify Libraries for Rapid Construction of Speech Enabled Appl
 <em>  Tejaswi Kasturi, Haojian Jin, Aasish Pappu, Sungjin Lee, Beverley Harrison, Ramana Murthy and Amanda Stent</em>
 
 
+####12:40	Best paper award ceremony and closing
+
+#####13:00	End of conference
+
 <br/><br/><br/>
-<font face="Arial">Last update:</font> 29 July, 2015
+<font face="Arial">Last update:</font> 10 August, 2015
