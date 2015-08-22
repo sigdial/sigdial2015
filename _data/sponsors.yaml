@@ -1,1 +1,22 @@
 sponsors:
+  - name: Microsoft
+    logo: microsoft-logo.png
+    url: http://research.microsoft.com/
+  - name: ETS
+    logo: ets-logo.jpg
+    url: http://www.ets.org/
+  - name: Amazon
+    url: http://www.amazon.com/speech
+    logo: amazon-logo.png
+  - name: Honda
+    url: http://www.honda-ri.com/
+    logo: hri-logo.jpg
+  - name: MERL
+    url: http://www.merl.com/
+    logo: mitsubishi-logo.jpg
+  - name: Turnitin
+    url: http://turnitin.com/
+    logo: turnitin-logo.jpg
+  - name: Interactions
+    url: http://www.research.att.com/
+    logo: interactions-logo.jpg
