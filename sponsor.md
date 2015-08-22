@@ -2,21 +2,15 @@
 layout: default
 ---
 
-# Sponsor the Conference
+# We thank our sponsors
 
-SIGDIAL 2015 has a variety of opportunities for sponsors.
-
-If you are interested in being a sponsor of SIGDIAL 2015, please contact Kristy Boyer, sponsorships chair, at sponsor-chair[at]sigdial.org.
-
-## We thank our sponsors
-
-### Platinum Level
+## Platinum Level
 
 [Microsoft](http://research.microsoft.com/)
 
 <img src="microsoft-logo.png" width="150"/>
 
-### Gold Level
+## Gold Level
 
 [ETS](http://www.ets.org/)
 
@@ -26,7 +20,7 @@ If you are interested in being a sponsor of SIGDIAL 2015, please contact Kristy 
 
 <img src="amazon-logo.png" width="150"/>
 
-### Silver Level
+## Silver Level
 
 [Honda Research Institute](http://www.honda-ri.com/)
 
@@ -40,8 +34,15 @@ If you are interested in being a sponsor of SIGDIAL 2015, please contact Kristy 
 
 <img src="turnitin-logo.jpg" width="150"/>
 
-### Bronze Level
+## Bronze Level
 
 [Interactions](http://www.interactions.net/)
 
 <img src="interactions-logo.jpg" width="150"/>
+
+
+## Sponsor the Conference
+
+SIGDIAL 2015 has a variety of opportunities for sponsors.
+
+If you are interested in being a sponsor of SIGDIAL 2015, please contact Kristy Boyer, sponsorships chair, at sponsor-chair[at]sigdial.org.
