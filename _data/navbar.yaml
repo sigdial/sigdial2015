@@ -1,34 +1,32 @@
 navbar:
   - title: Main
     url: index.html
-  - title: Call for Papers
-    url: cfp.html
-  - title: Submissions
-    url: submissions.html
-  - title: Special Sessions
-    url: sessions.html
-  - title: Important Dates
-    url: dates.html
-  - title: Keynote Speakers
-    url: speakers.html
-  - title: Committees
-    url: people.html
-  - title: Sponsor the Conference
-    url: sponsor.html
-  - title: Accepted Papers
-    url: accepted-papers.html
   - title: Proceedings
     url: proceedings.html
+  - title: Keynote Speakers
+    url: speakers.html
   - title: Best Paper Awards
     url: best-paper-awards.html
   - title: Instructions for Presenters
     url: https://ufal.mff.cuni.cz/events/sigdial-2015
+  - title: Schedule
+    url: schedule.html
+  - title: Special Sessions
+    url: sessions.html
   - title: Registration
     url: registration.html
   - title: Venue and Travel
     url: https://ufal.mff.cuni.cz/events/sigdial-2015
-  - title: Schedule
-    url: schedule.html
+  - title: Call for Papers
+    url: cfp.html
+  - title: Submissions
+    url: submissions.html
+  - title: Important Dates
+    url: dates.html
+  - title: Committees
+    url: people.html
+  - title: Sponsor the Conference
+    url: sponsor.html
   - title: Contact
     url: contact.html
 
